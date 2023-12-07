@@ -1,9 +1,8 @@
 <h2> TCP Socket-based ping-pong chat</h2> 
-Built with Java8 
+
 <h1> Usage: </h1>
-
-<p/>Requires Java8+ to run
-
+After building, use 
+<p/>
 launch.sh - runs the second player in a separate process
 <p/>launch_single_process.sh - runs in the same process
 <h1> Original specification: </h1> 
